@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zh3webapp", "zh3webapp\zh3webapp.csproj", "{702851D4-A82B-41BA-B102-0DE0F62259A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zh3webapp", "zh3webapp\zh3webapp.csproj", "{702851D4-A82B-41BA-B102-0DE0F62259A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppZH3", "WinFormsAppZH3\WinFormsAppZH3.csproj", "{D9F62D36-22F0-4909-9DCC-ED3899757C60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{702851D4-A82B-41BA-B102-0DE0F62259A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{702851D4-A82B-41BA-B102-0DE0F62259A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{702851D4-A82B-41BA-B102-0DE0F62259A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F62D36-22F0-4909-9DCC-ED3899757C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F62D36-22F0-4909-9DCC-ED3899757C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F62D36-22F0-4909-9DCC-ED3899757C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F62D36-22F0-4909-9DCC-ED3899757C60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

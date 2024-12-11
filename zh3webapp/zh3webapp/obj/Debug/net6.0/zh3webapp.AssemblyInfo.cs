@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zh3webapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8451bffe624e33f8e00be46dbf1159df37e701c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1429d220dc1b9bd323fe83e752279cff02355d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("zh3webapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zh3webapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

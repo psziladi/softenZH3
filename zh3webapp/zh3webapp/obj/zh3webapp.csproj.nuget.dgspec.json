@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sziladi-p\\source\\repos\\softenZH3\\zh3webapp\\zh3webapp\\zh3webapp.csproj": {}
+    "C:\\Users\\sziladi-p\\Source\\Repos\\softenZH3\\zh3webapp\\zh3webapp\\zh3webapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sziladi-p\\source\\repos\\softenZH3\\zh3webapp\\zh3webapp\\zh3webapp.csproj": {
+    "C:\\Users\\sziladi-p\\Source\\Repos\\softenZH3\\zh3webapp\\zh3webapp\\zh3webapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sziladi-p\\source\\repos\\softenZH3\\zh3webapp\\zh3webapp\\zh3webapp.csproj",
+        "projectUniqueName": "C:\\Users\\sziladi-p\\Source\\Repos\\softenZH3\\zh3webapp\\zh3webapp\\zh3webapp.csproj",
         "projectName": "zh3webapp",
-        "projectPath": "C:\\Users\\sziladi-p\\source\\repos\\softenZH3\\zh3webapp\\zh3webapp\\zh3webapp.csproj",
+        "projectPath": "C:\\Users\\sziladi-p\\Source\\Repos\\softenZH3\\zh3webapp\\zh3webapp\\zh3webapp.csproj",
         "packagesPath": "C:\\Users\\sziladi-p\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sziladi-p\\source\\repos\\softenZH3\\zh3webapp\\zh3webapp\\obj\\",
+        "outputPath": "C:\\Users\\sziladi-p\\Source\\Repos\\softenZH3\\zh3webapp\\zh3webapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sziladi-p\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,16 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.36, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"

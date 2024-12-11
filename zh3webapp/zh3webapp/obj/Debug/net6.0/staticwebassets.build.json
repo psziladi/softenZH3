@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "WGTEQ1CHNaa+0EskQf6iwuCA4RwNxZJuC7zPKzwQt0U=",
+  "Source": "zh3webapp",
+  "BasePath": "_content/zh3webapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "zh3webapp\\wwwroot",
+      "Source": "zh3webapp",
+      "ContentRoot": "C:\\Users\\sziladi-p\\Source\\Repos\\softenZH3\\zh3webapp\\zh3webapp\\wwwroot\\",
+      "BasePath": "_content/zh3webapp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sziladi-p\\Source\\Repos\\softenZH3\\zh3webapp\\zh3webapp\\wwwroot\\index.html",
+      "SourceId": "zh3webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sziladi-p\\Source\\Repos\\softenZH3\\zh3webapp\\zh3webapp\\wwwroot\\",
+      "BasePath": "_content/zh3webapp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

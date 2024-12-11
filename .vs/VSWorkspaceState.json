@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\zh3webapp",
+    "\\zh3webapp\\zh3webapp",
+    "\\zh3webapp\\zh3webapp\\wwwroot"
   ],
+  "SelectedNode": "\\zh3webapp\\zh3webapp.sln",
   "PreviewInSolutionExplorer": false
 }
